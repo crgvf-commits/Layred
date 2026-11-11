@@ -1,0 +1,17 @@
+scenario_id,target_domain,source_type,policy,direct_available_assumed,n0_available,n1_eligible,n2_eligible,n3_delivery,selected_route,path,path_edges
+S1,TRA,international,C2,0,1,1,1,1,CENTRAL_N0,InternationalSource > N0 > N1:TRA > N2:TRA > N3:TRA,4
+S1,TRA,international,F1,1,1,1,1,1,DIRECT_INTERNATIONAL,InternationalSource > N1:TRA > N2:TRA > N3:TRA,3
+S2,TRA,international,C2,0,1,0,0,0,REJECTED_BY_N1_POLICY,InternationalSource,0
+S2,TRA,international,F1,0,1,0,0,0,REJECTED_BY_N1_POLICY,InternationalSource,0
+S3,TEL,international,C2,0,1,1,0,0,CENTRAL_N0,InternationalSource > N0 > N1:TEL > N2:TEL,3
+S3,TEL,international,F1,1,1,1,0,0,DIRECT_INTERNATIONAL,InternationalSource > N1:TEL > N2:TEL,2
+S4,FIN,domestic,C2,0,1,1,1,0,DOMESTIC_N1,DomesticSource > N1:FIN > N2:FIN,2
+S4,FIN,domestic,F1,0,1,1,1,0,DOMESTIC_N1,DomesticSource > N1:FIN > N2:FIN,2
+S5,TRA,international,C2,0,1,1,1,1,CENTRAL_N0,InternationalSource > N0 > N1:TRA > N2:TRA > N3:TRA,4
+S5,TRA,international,F1,1,1,1,1,1,DIRECT_INTERNATIONAL,InternationalSource > N1:TRA > N2:TRA > N3:TRA,3
+S5,TEL,international,C2,0,1,1,1,1,CENTRAL_N0,InternationalSource > N0 > N1:TEL > N2:TEL > N3:TEL,4
+S5,TEL,international,F1,1,1,1,1,1,DIRECT_INTERNATIONAL,InternationalSource > N1:TRA > N1:TEL > N2:TEL > N3:TEL,4
+S6,GOV,international,C2,0,1,0,0,0,REJECTED_BY_N1_POLICY,InternationalSource,0
+S6,GOV,international,F1,0,1,0,0,0,REJECTED_BY_N1_POLICY,InternationalSource,0
+S7,HLT,domestic,C2,0,1,1,1,1,DOMESTIC_N1,DomesticSource > N1:HLT > N2:HLT > N3:HLT,3
+S7,HLT,domestic,F1,0,1,1,1,1,DOMESTIC_N1,DomesticSource > N1:HLT > N2:HLT > N3:HLT,3

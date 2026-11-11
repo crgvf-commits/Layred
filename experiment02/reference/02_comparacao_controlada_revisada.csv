@@ -1,0 +1,9 @@
+scenario_id,target_domain,source_type,direct_available_assumed,C2_path_edges,F1_path_edges,C2_N3_delivery,F1_N3_delivery,path_difference
+S1,TRA,international,1,4,3,1,1,1
+S2,TRA,international,0,0,0,0,0,0
+S3,TEL,international,1,3,2,0,0,1
+S4,FIN,domestic,0,2,2,0,0,0
+S5,TRA,international,1,4,3,1,1,1
+S5,TEL,international,1,4,4,1,1,0
+S6,GOV,international,0,0,0,0,0,0
+S7,HLT,domestic,0,3,3,1,1,0

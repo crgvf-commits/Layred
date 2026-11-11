@@ -1,0 +1,3 @@
+Record_ID,Domain,Title,Evidence,Reason,Status
+165,ENE,OSINT Black Energy 2 malware analysis blog post by Joseph Mlodzianowski,"Title: ""Energy""",Term Energy may refer to BlackEnergy malware name instead of energy-sector target; requires human semantic review,Not adjudicated
+3759,ENE,KillDisk and BlackEnergy Are Not Just Energy Sector Threats,"Title: ""Energy""",Term Energy may refer to BlackEnergy malware name instead of energy-sector target; requires human semantic review,Not adjudicated

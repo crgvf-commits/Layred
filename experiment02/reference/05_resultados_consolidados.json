@@ -1,0 +1,66 @@
+{
+  "experiment": "Reanalise conservadora do Experimento 02 WorldCIST27",
+  "date": "2026-11-11",
+  "model": "controlled synthetic routing paths; no operational measurements",
+  "corpus_audit": {
+    "records": 7854,
+    "n1_domains": 8,
+    "potential_pairs": 62832,
+    "C2_selected": 214,
+    "F1_selected": 214,
+    "observed_n3_deliveries": null
+  },
+  "scenario_cases": {
+    "scenarios": 7,
+    "scenario_recipient_pairs": 8,
+    "modelled_allowed_n3_deliveries_per_policy": 4
+  },
+  "original_comparison": {
+    "C2_path_edges": 24,
+    "F1_path_edges": 17,
+    "difference": 7
+  },
+  "corrected_fair_comparison": {
+    "C2_path_edges": 20,
+    "F1_path_edges": 17,
+    "difference": 3,
+    "reduction_percentage_vs_C2": 15.0
+  },
+  "count_of_unique_directed_links_per_scenario": {
+    "C2": 19,
+    "F1": 16,
+    "difference": 3,
+    "reduction_percentage_vs_C2": 15.7895
+  },
+  "direct_availability_sensitivity": {
+    "configuration_count": 8,
+    "min_difference": 0,
+    "max_difference": 3,
+    "negative_control_no_direct": "C2=F1=20 path-edge occurrences"
+  },
+  "finite_enumeration": {
+    "boolean_variables": 10,
+    "n0_states": 2,
+    "configurations": 2048,
+    "assertions_checked": 18432,
+    "assertions_passed": 18432,
+    "assertions_failed": 0,
+    "fed_extra_deliveries_when_n0_down_configs": 3
+  },
+  "controls": [
+    "identical eligibility and downstream gates",
+    "domestic ingress not forced through N0 for either policy",
+    "no forced N1(entry)->N0->N1(target) detour in centralized policy",
+    "central source->N0->authorized N1 target permitted",
+    "federated falls back to N0 without eligible direct route",
+    "centralized can match federated when direct paths not available"
+  ],
+  "warnings": [
+    "C2 assumes mandatory international N0 ingress, not an arbitrary centralization.",
+    "All routes, authorizations, technical qualification and N3 delivery outcomes are synthetic inputs; no observed MISP traffic.",
+    "15 percent is the difference in modeled per-target path-edge occurrences, not a measured performance advantage.",
+    "The direct availability variables are explicit scenario assumptions, not derived from the 7,854 records.",
+    "Shared path edges are counted per target in the primary metric; a complementary per-scenario deduplicated edge count is also provided.",
+    "Finite Boolean enumeration is independent of the separately reported Lean 4 proof but does not establish independent operational validity."
+  ]
+}

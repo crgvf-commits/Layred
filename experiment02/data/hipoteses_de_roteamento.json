@@ -1,0 +1,27 @@
+{
+  "description": "Disponibilidade/autorizacao de rota direta internacional no ENSAIO SINTETICO (nao observada em MISP).",
+  "direct_available_default": {
+    "S1": true,
+    "S2": false,
+    "S3": true,
+    "S4": false,
+    "S5": true,
+    "S6": false,
+    "S7": false
+  },
+  "central_domestic_can_enter_N1_directly": true,
+  "central_international_forwards_from_N0_to_authorized_target_N1": true,
+  "central_cross_sector_permission_same_as_federated": true,
+  "federated_prefers_direct_international_when_eligible": true,
+  "fallback_to_N0_if_no_direct": true,
+  "comparison_scope": "centralized selective C2 with mandatory N0 only for international ingress; not every possible centralized policy",
+  "meaning_of_link": "one directed edge on one modeled source-to-target conceptual path, including unsuccessful N2 qualification if N1 accepted",
+  "what_is_not_measured": [
+    "MISP operational forwarding",
+    "traffic bytes",
+    "latency",
+    "CPU",
+    "actual authorization",
+    "independent N2/N3 correctness"
+  ]
+}

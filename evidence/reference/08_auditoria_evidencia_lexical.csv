@@ -1,0 +1,215 @@
+Record_ID,N1_Domain_Code,Classification_Method,Literal_Evidence_Reproduced,Title_Evidence_Reproduced,Tag_Evidence_Reproduced,Explicit_Evidence,Title
+7,FIN,Explicit sector tag,1,1,1,"Explicit sector tag: misp-galaxy:sector=""Bank"" | Explicit sector tag: misp-galaxy:sector=""Finance"" | Title: ""Banking"" | Title: ""Payment""",OSINT - Major Payment Disruption: Ransomware Strikes Indian Banking Infrastructure
+8,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Analysis of FG-IR-22-398 – FortiOS - heap-based buffer overflow in SSLVPNd
+47,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Telecoms""",OSINT - GreyNoise Observes Active Exploitation of Cisco Vulnerabilities Tied to Salt Typhoon Attacks
+57,ENE,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Energy""",OSINT - Unraveling SloppyLemming’s Operations Across South Asia
+57,INV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Police - Law enforcement""",OSINT - Unraveling SloppyLemming’s Operations Across South Asia
+57,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Telecoms""",OSINT - Unraveling SloppyLemming’s Operations Across South Asia
+103,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Finance""",OSINT - NGate Android malware relays NFC traffic to steal cash
+112,FIN,Direct title match,1,1,0,"Title: ""financial""",DangerousSavanna: Two-year long campaign targets financial institutions in French-speaking Africa
+116,INV,Direct title match,1,1,0,"Title: ""Police""",Police.CH - Erpresserische Kryptowährung-Adressen
+134,HLT,Direct title match,1,1,0,"Title: ""Healthcare"" | Title: ""Health Sector"" | Title: ""Public Health""",Ransomware Activity Targeting the Healthcare and Public Health Sector
+162,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT Banking Trojan DRIDEX Uses Macros for Infection blog post from Trend Micro
+165,ENE,Direct title match,1,1,0,"Title: ""Energy""",OSINT Black Energy 2 malware analysis blog post by Joseph Mlodzianowski
+247,HLT,Direct title match,1,1,0,"Title: ""healthcare""","OSINT Black Vine: Formidable cyberespionage group targeted aerospace, healthcare since 2012 by Symantec"
+262,FIN,Direct title match,1,1,0,"Title: ""Bank""",OSINT Tinted CVE decoy spearphising attempt on Central Bank of Armenia employees by BlueCoat
+277,FIN,Direct title match,1,1,0,"Title: ""ATM""",OSINT Meet GreenDispenser: A New Breed of ATM Malware by ProofPoint
+282,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT Infected Korean Website Installs Banking Malware by Cyphort
+293,GOV,Direct title match,1,1,0,"Title: ""Government""",OSINT Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites by Citizen Labs
+335,FIN,Direct title match,1,1,0,"Title: ""banking""",OSINT - ATMZombie: banking trojan in Israeli waters
+337,GOV,Direct title match,1,1,0,"Title: ""Government""",OSINT APT Bestia used in APT attacks on Polish Government
+350,FIN,Direct title match,1,1,0,"Title: ""banking""",OSINT - Android banking trojan masquerades as Flash Player and bypasses 2FA
+415,FIN,Direct title match,1,1,0,"Title: ""payment"" | Title: ""SWIFT""",OSINT - TWO BYTES TO $951M (SWIFT payment system abuse)
+443,FIN,Direct title match,1,1,0,"Title: ""Banks""",OSINT - Targeted Attacks against Banks in the Middle East
+458,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT - Ð‘Ð°Ð½ÐºÐ¾Ð²ÑÐºÐ¸Ð¹ Ñ‚Ñ€Ð¾ÑÐ½ÐµÑ† Lurk: ÑÐ¿ÐµÑ†Ð¸Ð°Ð»ÑŒÐ½Ð¾ Ð´Ð»Ñ Ð Ð¾ÑÑÐ¸Ð¸ (Banking Trojan Lurk: specially for Russia)
+459,ENE,Direct title match,1,1,0,"Title: ""ICS"" | Title: ""SCADA""",OSINT - IRONGATE ICS Malware: Nothing to See Here...Masking Malicious Activity on SCADA Systems
+462,FIN,Direct title match,1,1,0,"Title: ""banking""",OSINT - LinkedIn information used to spread banking malware in the Netherlands
+467,GOV,Direct title match,1,1,0,"Title: ""Government""",OSINT New Sofacy Attacks Against US Government Agency by Palo Alto Unit 42
+477,FIN,Direct title match,1,1,0,"Title: ""banking""",OSINT - Retefe banking Trojan targets UK banking customers
+486,FIN,Direct title match,1,1,0,"Title: ""Financial""",Malspam 2016-06-29 (campaign subject: 'Financial report')
+505,FIN,Direct title match,1,1,0,"Title: ""bank""","Malspam 2016-07-18 .wsf (campaign: ""bank account report"")"
+511,FIN,Direct title match,1,1,0,"Title: ""Financial""","Malspam 2016-07-22 .js in .zip with embedded Locky (campaign: ""Financial statement"")"
+524,GOV,Direct title match,1,1,0,"Title: ""government""",OSINT - ProjectSauron: top level cyber-espionage platform covertly extracts encrypted government comms
+566,FIN,Direct title match,1,1,0,"Title: ""bank""","Malspam 2016-08-31 (.js in .zip) - campaign: ""bank transactions"""
+591,FIN,Direct title match,1,1,0,"Title: ""payment""","Malspam 2016-09-14 (.wsf in .zip) - campaign: ""payment copy"""
+619,FIN,Direct title match,1,1,0,"Title: ""financial""",OSINT - Odinaff: New Trojan used in high level financial attacks
+627,INV,Direct title match,1,1,0,"Title: ""cybercrime""",OSINT - TeamXRat: Brazilian cybercrime meets ransomware
+650,GOV,Direct title match,1,1,0,"Title: ""Government""",OSINT - Tropic Trooper Targets Taiwanese Government and Fossil Fuel Provider With Poison Ivy
+676,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT - Threat Actors Using Legitimate PayPal Accounts To Distribute Chthonic Banking Trojan
+678,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT - 2016 Updates to Shifu Banking Trojan
+683,FIN,Direct title match,1,1,0,"Title: ""ATM""",OSINT - New Variant of Ploutus ATM Malware Observed in the Wild in Latin America
+696,FIN,Direct title match,1,1,0,"Title: ""Banking""","OSINT - Dridex Banking Trojan Returns, Leverages New UAC Bypass Method"
+704,FIN,Direct title match,1,1,0,"Title: ""financial""",OSINT: Malicious software targeting financial sector internals
+712,GOV,Direct title match,1,1,0,"Title: ""Ministry""",OSINT - The Curious Case of a Reconnaissance Campaign Targeting Ministry and Embassy Sites
+713,FIN,Direct title match,1,1,0,"Title: ""Payment""",Erebus Ransomware Utilizes a UAC Bypass and Request a $90 Ransom Payment
+716,FIN,Direct title match,1,1,0,"Title: ""banks""",OSINT - Attackers target dozens of global banks with new malware
+720,FIN,Direct title match,1,1,0,"Title: ""banks""",OSINT - Demystifying targeted malware used against Polish banks
+745,GOV,Direct title match,1,1,0,"Title: ""Government""",OSINT - New targeted attack against Saudi Arabia Government
+758,HLT,Direct title match,1,1,0,"Title: ""Healthcare""",OSINT - Off-the-shelf Ransomware Used to Target the Healthcare Sector
+761,FIN,Direct title match,1,1,0,"Title: ""Bank""",OSINT - Analysis of Malware in Brazilian Bank Attack Reveals Prolonged Campaign
+779,FIN,Direct title match,1,1,0,"Title: ""payment""","Password-protected docs 2017-05-10 : Ursnif 2002 - ""payment confirmation.ab1_c23def4lg56hi#78j.docx"""
+796,FIN,Direct title match,1,1,0,"Title: ""Payment""","Jaff 2017-05-25 : ""Payment Receipt 1234"" - ""1234.pdf"""
+819,FIN,Direct title match,1,1,0,"Title: ""SWIFT""",M2M -  #LokiBot goes  with SWIFT theme
+839,FIN,Direct title match,1,1,0,"Title: ""Bank""",M2M -  #trickbot Lloyds Bank
+846,FIN,Direct title match,1,1,0,"Title: ""banking""",OSINT - A new era in mobile banking Trojans
+857,FIN,Direct title match,1,1,0,"Title: ""Banks""",OSINT - EngineBox Malware Supports 10+ Brazilian Banks
+859,FIN,Direct title match,1,1,0,"Title: ""banking""","OSINT - Emotet, New high-volume spam campaign has links pointing to malicious documents that download banking Trojan"
+869,FIN,Direct title match,1,1,0,"Title: ""Financial""",OSINT - Ukrainian Financial Institutions Targeted by Wave of Malicious EPS File Attacks
+878,GOV,Direct title match,1,1,0,"Title: ""government""",OSINT - Javascript malware hosted on US government site which launches powershell to connect to C2.
+884,ENE,Explicit sector tag,1,1,1,"Explicit sector tag: certsi:critical-sector=""energy"" | Title: ""energy""",OSINT - Dragonfly: Western energy sector targeted by sophisticated attack group
+916,ENE,Direct title match,1,1,0,"Title: ""Oil""",OSINT - Striking Oil: A Closer Look at Adversary Infrastructure
+920,GOV,Direct title match,1,1,0,"Title: ""Government""",OSINT - Threat Actors Target Government of Belarus Using CMSTAR Trojan
+921,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT -  Banking Trojan Attempts To Steal Brazillion$
+944,FIN,Direct title match,1,1,0,"Title: ""payment""","M2M -  Locky Affid=3, "".asasin""/Trickbot ""mac1"" 2017-10-11 : ""Supplement payment 1234567890"" - ""F1234567890_11102017.7z"""
+963,TRA,Direct title match,1,1,0,"Title: ""maritime""",OSINT Leviathan: Espionage actor spearphishes maritime and defense targets
+969,FIN,Direct title match,1,1,0,"Title: ""Payment""","M2M -  Locky 2017-11-06 : Affid=3, "".asasin"" : ""E3S1234567890123 Payment advice"" - ""advice_123456_20171106.doc"""
+981,INV,Direct title match,1,1,0,"Title: ""Cybercrime""",OSINT - Android Malware Appears Linked to Lazarus Cybercrime Group
+982,FIN,Direct title match,1,1,0,"Title: ""Financial""",OSINT - Gaffe Reveals Full List of Targets in Spear Phishing Attack Using Cobalt Strike Against Financial Institutions
+991,TEL,Direct title match,1,1,0,"Title: ""ISP""",OSINT - StrongPity2 spyware replaces FinFisher in MitM campaign â€“ ISP involved?
+992,ENE,Direct title match,1,1,0,"Title: ""ICS""",OSINT - Attackers Deploy New ICS Attack Framework â€œTRITONâ€ and Cause Operational Disruption to Critical Infrastructure
+1001,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT - Zeus Panda Banking Trojan Targets Online Holiday Shoppers
+1002,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT - The Emotet Banking Trojan: Analysis of Dropped Malware Morphing at Scale
+1003,FIN,Direct title match,1,1,0,"Title: ""banks"" | Title: ""Banking""",OSINT - Banking malware on Google Play targets Polish banks
+1007,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT - DownAndExec: Banking malware utilizes CDNs in Brazil
+1037,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT - Zeus Panda Banking Trojan Targets Online Holiday Shoppers
+1040,GOV,Direct title match,1,1,0,"Title: ""Government""",OSINT - Sofacy Attacks Multiple Government Entities
+1051,ENE,Direct title match,1,1,0,"Title: ""Energy""",OSINT - Alert (TA18-074A) Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors
+1051,GOV,Direct title match,1,1,0,"Title: ""Government""",OSINT - Alert (TA18-074A) Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors
+1052,GOV,Direct title match,1,1,0,"Title: ""Government""",OSINT - Sofacy Uses DealersChoice to Target European Government Agency
+1064,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT -  IcedID Banking Trojan Teams up with Rovnix for Distribution
+1071,HLT,Direct title match,1,1,0,"Title: ""healthcare""","OSINT - New Orangeworm attack group targets the healthcare sector in the U.S., Europe, and Asia"
+1098,INV,Direct title match,1,1,0,"Title: ""Cybercrime""",OSINT - Iron Cybercrime Group Under The Scope
+1110,FIN,Direct title match,1,1,0,"Title: ""Financial""",Trend Micro Blog: New KillDisk Variant Hits Latin American Financial Organizations Again
+1114,FIN,Direct title match,1,1,0,"Title: ""bank""",bank phishing domains
+1133,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT - Kronos Banking Trojan Used to Deliver New Point-of-Sale Malware
+1138,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: cert-ist:threat_targeted_sector=""Finance""",Talos Blog: Multiple Cobalt Personality Disorder
+1139,ENE,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Manufacturing"" | Explicit sector tag: misp-galaxy:sector=""Oil"" | Explicit sector tag: misp-galaxy:sector=""Energy""",OSINT - Attacks on industrial enterprises using RMS and TeamViewer
+1139,TRA,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Logistic""",OSINT - Attacks on industrial enterprises using RMS and TeamViewer
+1146,FIN,Direct title match,1,1,0,"Title: ""Payments""",OSINT - SamSam Ransomware Crew Made Nearly $6 Million From Ransom Payments
+1152,EDU,Explicit sector tag,1,0,1,"Explicit sector tag: cert-ist:threat_targeted_sector=""Academic and Research""",Turla Outlook White Paper
+1152,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: cert-ist:threat_targeted_sector=""Gov""",Turla Outlook White Paper
+1164,FIN,Direct title match,1,1,0,"Title: ""ATM""",OSINT - CIG Circular 66  â€“ FASTCash  ATM Cash  Out Campaign
+1180,FIN,Direct title match,1,1,0,"Title: ""Payment""",OSINT - Making a Ransomware Payment? It May Now Violate U.S. Sanctions
+1217,FIN,Direct title match,1,1,0,"Title: ""Financial""",Financial - socgen-compliance.com fake website delivering malicious documents
+1236,GOV,Direct title match,1,1,0,"Title: ""Government""",OSINT - FINTEAM: Trojanized TeamViewer Against Government Targets
+1238,FIN,Direct title match,1,1,0,"Title: ""Financial""",OSINT - Threat Actor TA505 Targets Financial Enterprises Using LOLBins and a New Backdoor Malware
+1255,GOV,Direct title match,1,1,0,"Title: ""Government""",Emissary Panda Attacks Middle East Government Sharepoint Servers by Palo Alto Unit42
+1257,FIN,Direct title match,1,1,0,"Title: ""ATM""",OSINT -  10 years of virtual dynamite: A high-level retrospective of ATM malware
+1259,FIN,Direct title match,1,1,0,"Title: ""Financial""",OSINT - Gaining New Visibility into Financial Threats
+1265,EDU,Direct title match,1,1,0,"Title: ""University""","Information stealer malware via fake malicious document as ""University of Luxembourg"""
+1286,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT - New Gootkit Banking Trojan campaign against Italian Companies and Users.
+1306,TEL,Direct title match,1,1,0,"Title: ""telecom""",OSINT -  GALLIUM: Targeting global telecom
+1384,INV,Direct title match,1,1,0,"Title: ""Cybercrime""",APT43: North Korean Group Uses Cybercrime to Fund Espionage Operations
+1396,HLT,Direct title match,1,1,0,"Title: ""Healthcare"" | Title: ""Health Sector"" | Title: ""Public Health""",[TLP:WHITE] Joint CSA: North Korean State-Sponsored Cyber Actors Use Maui Ransomware to Target the Healthcare and Public Health Sector
+1411,FIN,Direct title match,1,1,0,"Title: ""Banking""",OSINT (VT Collection) - GodFather Malware Returns Targeting Banking Users
+1428,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Telecoms""",spearphishing campaign targeted at least 20 Autonomous System (AS) owners
+1460,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Telecoms""",Volt Typhoon targets US critical infrastructure with living-off-the-land techniques
+1501,ENE,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Electric"" | Explicit sector tag: misp-galaxy:sector=""Energy""",Operation Cobalt Whisper: Threat Actor Targets Multiple Industries Across Hong Kong and Pakistan.
+1501,EDU,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Academia - University""",Operation Cobalt Whisper: Threat Actor Targets Multiple Industries Across Hong Kong and Pakistan.
+1501,HLT,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Pharmacy""",Operation Cobalt Whisper: Threat Actor Targets Multiple Industries Across Hong Kong and Pakistan.
+1501,TRA,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Civil Aviation""",Operation Cobalt Whisper: Threat Actor Targets Multiple Industries Across Hong Kong and Pakistan.
+1534,GOV,Direct title match,1,1,0,"Title: ""Government""",AA23-339A Threat Actors Exploit Adobe ColdFusion CVE- 2023-26360 for Initial Access to Government Servers
+1619,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Finance""",CSSF - Warnings
+1638,HLT,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Health""",OSINT - Backmydata Ransomware Indicators of Compromise (IOCs) - alerts - dnsc.ro
+1641,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Finance"" | Explicit sector tag: misp-galaxy:sector=""Insurance""",PFCloud · Bulletproof Hosting · Datacarry Ransomware
+1641,HLT,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Health"" | Explicit sector tag: misp-galaxy:sector=""Pharmacy""",PFCloud · Bulletproof Hosting · Datacarry Ransomware
+1641,EDU,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Education""",PFCloud · Bulletproof Hosting · Datacarry Ransomware
+1641,INV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Legal""",PFCloud · Bulletproof Hosting · Datacarry Ransomware
+1641,TRA,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Civil Aviation""",PFCloud · Bulletproof Hosting · Datacarry Ransomware
+1649,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: cert-ist:threat_targeted_sector=""Gov"" | Explicit sector tag: misp-galaxy:sector=""Government, Administration""",OSINT of Exchange 0-day campaign (Atos)
+1661,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Managed Services Provider"" | Explicit sector tag: misp-galaxy:sector=""Telecoms""",OSINT - Game of Emperor: Unveiling Long Term Earth Estries Cyber Intrusions
+1729,HLT,Direct title match,1,1,0,"Title: ""Health Sector""",Ransomware Attack Irish on Health Sector
+1797,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""IT - ISP""",Eight Arms to Hold You: The Cuttlefish Malware
+1886,FIN,Direct title match,1,1,0,"Title: ""Banking""",TinyNuke Banking Malware Targets French Entities
+1953,ENE,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Energy""",PRC State-Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical Infrastructure
+1953,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Telecoms""",PRC State-Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical Infrastructure
+1953,TRA,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Transport""",PRC State-Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical Infrastructure
+2033,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",German Embassy Lure: Likely Part of Campaign Against NATO Aligned Ministries of Foreign Affairs
+2129,GOV,Direct title match,1,1,0,"Title: ""Government""",Suspected Russian Activity Targeting Government and Business Entities Around the Globe
+2166,ENE,Direct title match,1,1,0,"Title: ""ICS""",Campaigns abusing corporate trusted infrastructure hunt for corporate credentials on ICS networks
+2301,ENE,Explicit sector tag,1,1,1,"Explicit sector tag: misp-galaxy:sector=""Energy"" | Title: ""ICS""",Impact of FrostyGoop ICS Malware on Connected OT Systems
+2619,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration"" | Explicit sector tag: dhs-ciip-sectors:DHS-critical-sectors=""government-facilities""",Targeted attack on industrial enterprises and public institutions
+2681,GOV,Direct title match,1,1,0,"Title: ""Government""",Bahraini Government Hacks Activists with NSO Group Zero-Click iPhone Exploits
+2729,EDU,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Academia - University""",Russian threat group COLDRIVER expands its targeting of Western officials to include the use of malware
+2729,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Russian threat group COLDRIVER expands its targeting of Western officials to include the use of malware
+2828,TRA,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Aerospace""",Amazon‑themed campaigns of Lazarus in the Netherlands and Belgium
+2833,GOV,Direct title match,1,1,0,"Title: ""Government""",Russia-Aligned TAG-70 Targets European Government and Military Mail Servers in New Espionage Campaign
+2933,TEL,Explicit sector tag,1,1,1,"Explicit sector tag: misp-galaxy:sector=""Telecoms"" | Title: ""Telecoms""",Seedworm: Iranian Hackers Target Telecoms Orgs in North and East Africa
+3301,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Analysis of Storm-0558 techniques for unauthorized email access
+3301,INV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Legal""",Analysis of Storm-0558 techniques for unauthorized email access
+3304,GOV,Direct title match,1,1,0,"Title: ""government""",Gamaredon APT targets Ukrainian government agencies in new campaign
+3527,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Void Rabisu’s Use of RomCom Backdoor Shows a Growing Shift in Threat Actors’ Goals
+3639,FIN,Explicit sector tag,1,1,1,"Explicit sector tag: misp-galaxy:sector=""Finance"" | Title: ""Financial""",The New Version of JsOutProx is Attacking Financial Institutions in APAC and MENA via GitLab Abuse
+3712,GOV,Direct title match,1,1,0,"Title: ""Government""",APT28 Under the Scope - A Journey into Exfiltrating Intelligence and Government Information
+3716,GOV,Direct title match,1,1,0,"Title: ""Government""",Attack Campaign on the Government of Thailand Delivers Bookworm Trojan
+3721,GOV,Direct title match,1,1,0,"Title: ""Government""",Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites - Citizen Lab
+3736,FIN,Direct title match,1,1,0,"Title: ""Bank""","New Android Trojan â€œXbotâ€ Phishes Credit Cards and Bank Accounts, Encrypts Devices for Ransom"
+3759,ENE,Direct title match,1,1,0,"Title: ""Energy""",KillDisk and BlackEnergy Are Not Just Energy Sector Threats
+3780,GOV,Direct title match,1,1,0,"Title: ""Government""",New Sofacy Attacks Against US Government Agency
+3823,FIN,Direct title match,1,1,0,"Title: ""banks""","Several polish banks hacked, information stolen by unknown attackers"
+3836,HLT,Direct title match,1,1,0,"Title: ""HEALTHCARE""",OFF-THE-SHELF RANSOMWARE USED TO TARGET THE HEALTHCARE SECTOR
+3855,ENE,Direct title match,1,1,0,"Title: ""industrial control""",Industroyer: Biggest threat to industrial control systems since Stuxnet
+3877,FIN,Direct title match,1,1,0,"Title: ""Banking""",Poisoning the Well: Banking Trojan Targets Google Search Results
+3878,FIN,Direct title match,1,1,0,"Title: ""financial""",Silence â€“ a new Trojan attacking financial organizations
+3887,FIN,Direct title match,1,1,0,"Title: ""Banking""",Sneaky *.BAT File Leads to Spoofed Banking Page
+3899,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Finance""",Return of the Evilnum APT with updated TTPs and new targets
+3910,GOV,Direct title match,1,1,0,"Title: ""Government""",Sofacy Attacks Multiple Government Entities
+3942,TRA,Direct title match,1,1,0,"Title: ""shipping""",Fake Maersk shipping notice phishing
+4069,TEL,Direct title match,1,1,0,"Title: ""Telecommunications""",OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory
+4102,GOV,Direct title match,1,1,0,"Title: ""Government""",JavaScript RAT Looking for that Government Cheese
+4111,FIN,Direct title match,1,1,0,"Title: ""banking""",Bizarro banking Trojan expands its attacks to Europe
+4285,EDU,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Research - Innovation""","MOD Netherlands uncovers COATHANGER, a stealthy Chinese FortiGate RAT"
+4285,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""","MOD Netherlands uncovers COATHANGER, a stealthy Chinese FortiGate RAT"
+4311,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",State-backed attackers and commercial surveillance vendors repeatedly use the same exploits
+4556,EDU,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Research - Innovation""",Operation AkaiRyū: MirrorFace invites Europe to Expo 2025 and revives ANEL backdoor
+4583,ENE,Direct title match,1,1,0,"Title: ""Operational Technology""",Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology
+4874,ENE,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Energy"" | Explicit sector tag: misp-galaxy:sector=""Manufacturing""",Scraper: Rising Tide: Chasing the Currents of Espionage in the South China Sea
+4874,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Scraper: Rising Tide: Chasing the Currents of Espionage in the South China Sea
+4958,ENE,Explicit sector tag,1,1,1,"Explicit sector tag: dhs-ciip-sectors:DHS-critical-sectors=""energy"" | Title: ""Pipeline""",DarkChronicles: the consequences of the Colonial Pipeline attack
+4973,ENE,Explicit sector tag,1,0,1,"Explicit sector tag: dhs-ciip-sectors:DHS-critical-sectors=""energy""",Industroyer2: Industroyer reloaded
+4973,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: dhs-ciip-sectors:DHS-critical-sectors=""financial-services""",Industroyer2: Industroyer reloaded
+4973,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: dhs-ciip-sectors:DHS-critical-sectors=""government-facilities""",Industroyer2: Industroyer reloaded
+5040,EDU,Explicit sector tag,1,1,1,"Explicit sector tag: misp-galaxy:sector=""Academia - University"" | Explicit sector tag: misp-galaxy:sector=""Research - Innovation"" | Title: ""universities""",New TTPs observed in Mint Sandstorm campaign targeting high-profile individuals at universities and research orgs
+5207,ENE,Explicit sector tag,1,1,1,"Explicit sector tag: misp-galaxy:sector=""Energy"" | Title: ""Energy""",Ragnar Locker Ransomware Targeting the Energy Sector
+5283,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Midnight Blizzard conducts targeted social engineering over Microsoft Teams
+5283,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Managed Services Provider""",Midnight Blizzard conducts targeted social engineering over Microsoft Teams
+5453,FIN,Explicit sector tag,1,1,1,"Explicit sector tag: misp-galaxy:sector=""Finance"" | Title: ""banking""",Coyote: A multi-stage banking Trojan abusing the Squirrel installer
+5470,EDU,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Academia - University""","Iranian backed group steps up phishing campaigns against Israel, U.S."
+5539,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Finance""",CVE-2024-21412: Water Hydra Targets Traders With Microsoft Defender SmartScreen Zero-Day
+5540,TRA,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Aerospace""",New North-Korean based backdoor packs a punch
+5546,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Malicious activities linked to the Nobelium intrusion set
+5568,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Finance""",TA505 Group’s TeslaGun In-Depth Analysis
+5673,FIN,Direct title match,1,1,0,"Title: ""banking""",ESET takes part in global operation to disrupt the Grandoreiro banking trojan
+5897,EDU,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Education""",Aoqin Dragon | Newly-Discovered Chinese-linked APT Has Been Quietly Spying On Organizations For 10 Years
+5897,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Aoqin Dragon | Newly-Discovered Chinese-linked APT Has Been Quietly Spying On Organizations For 10 Years
+5897,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Telecoms""",Aoqin Dragon | Newly-Discovered Chinese-linked APT Has Been Quietly Spying On Organizations For 10 Years
+5934,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Cadet Blizzard emerges as a novel and distinct Russian threat actor
+5934,INV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Police - Law enforcement""",Cadet Blizzard emerges as a novel and distinct Russian threat actor
+6028,INV,Direct title match,1,1,0,"Title: ""Judiciary"" | Title: ""Law Enforcement""","Blind Eagle Deploys Fake UUE Files and Fsociety to Target Colombia's Judiciary, Financial, Public, and Law Enforcement Entities"
+6028,FIN,Direct title match,1,1,0,"Title: ""Financial""","Blind Eagle Deploys Fake UUE Files and Fsociety to Target Colombia's Judiciary, Financial, Public, and Law Enforcement Entities"
+6105,ENE,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Energy""",The attack against Danish critical infrastructure
+6108,ENE,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Energy""",AA24-207A North Korea Cyber Group Conducts Global Espionage Campaign to Advance Regime\'s Military and Nuclear Programs
+6108,TRA,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Aerospace""",AA24-207A North Korea Cyber Group Conducts Global Espionage Campaign to Advance Regime\'s Military and Nuclear Programs
+6123,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Finance""",From Albania to the Middle East: The Scarred Manticore is Listening
+6123,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",From Albania to the Middle East: The Scarred Manticore is Listening
+6123,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Telecoms""",From Albania to the Middle East: The Scarred Manticore is Listening
+6394,INV,Direct title match,1,1,0,"Title: ""Justice""",EU 31st session of the Commission on Crime Prevention and Criminal Justice United Nations on Drugs and Crime themed malware
+6397,HLT,Direct title match,1,1,0,"Title: ""health care""","Talos uncovers espionage campaigns targeting CIS countries, embassies and EU health care agency"
+6468,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Finance""",Houken seeking a path by living on the edge with zero-days
+6468,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Houken seeking a path by living on the edge with zero-days
+6468,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Telecoms""",Houken seeking a path by living on the edge with zero-days
+6468,TRA,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Transport""",Houken seeking a path by living on the edge with zero-days
+6470,TRA,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Aerospace"" | Explicit sector tag: misp-galaxy:sector=""Civil Aviation""",When Cats Fly: Suspected Iranian Threat Actor UNC1549 Targets Israeli and Middle East Aerospace and Defense Sectors
+6564,ENE,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Energy""",Scraper: Talos Website
+6581,FIN,Direct title match,1,1,0,"Title: ""Financial""",Financial Institutions in the Sight of New JsOutProx Attack Waves
+6677,ENE,Explicit sector tag,1,0,1,"Explicit sector tag: dhs-ciip-sectors:DHS-critical-sectors=""critical-manufacturing""",Cyberattack on fuel supplier causes supply chain disruption
+6786,HLT,Direct title match,1,1,0,"Title: ""Medical""",No Pineapple! –DPRK Targeting of Medical Research and Technology Sector
+6906,GOV,Explicit sector tag,1,1,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration"" | Title: ""government""",EastWind campaign: new CloudSorcerer attacks on government organizations in Russia
+7104,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""IT - ISP"" | Explicit sector tag: misp-galaxy:sector=""Telecoms""",Turkish espionage campaigns in the Netherlands
+7104,GOV,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration""",Turkish espionage campaigns in the Netherlands
+7594,GOV,Explicit sector tag,1,1,1,"Explicit sector tag: misp-galaxy:sector=""Government, Administration"" | Title: ""government""",Operation Crimson Palace: Sophos threat hunting unveils multiple clusters of Chinese state-sponsored activity targeting Southeast Asian government
+7713,ENE,Direct title match,1,1,0,"Title: ""ICS""","ICS Threat Analysis: New, Experimental Malware Can Kill Engineering Processes"
+7771,TRA,Explicit sector tag,1,0,1,"Explicit sector tag: dhs-ciip-sectors:DHS-critical-sectors=""transport""",MeteorExpress | Mysterious Wiper Paralyzes Iranian Trains with Epic Troll
+7823,FIN,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Finance""","Financially motivated, dangerously activated:  OPERA1ER APT in Africa"
+7823,TEL,Explicit sector tag,1,0,1,"Explicit sector tag: misp-galaxy:sector=""Telecoms""","Financially motivated, dangerously activated:  OPERA1ER APT in Africa"
+7834,GOV,Direct title match,1,1,0,"Title: ""Government""",APT34 targets Jordan Government using new Saitama backdoor
