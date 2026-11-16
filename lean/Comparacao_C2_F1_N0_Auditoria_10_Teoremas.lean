@@ -13,7 +13,8 @@ The theorem proves properties CONDITIONAL ON this declared topology/policy.
 It is NOT a measurement of MISP traffic, end-to-end latency, semantic correctness,
 network resilience, or unconditional superiority of federation.
 
-This is a candidate Lean 4 file: compilation must be verified with the Lean compiler.
+
+The source contains ten theorems and their corresponding axiom checks. Independent reviewers can reproduce the verification using the repository's pinned Lean 4 toolchain.
 -/
 
 namespace WorldCIST27
