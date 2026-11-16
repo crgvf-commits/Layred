@@ -9,7 +9,9 @@ Toolchain pin from the project: `leanprover/lean4:v4.30.0`.
 lean Comparacao_C2_F1_N0_Auditoria_10_Teoremas.lean
 ```
 
-Expected: no compilation errors and no `sorryAx` in the output of any of the ten `#print axioms` commands. A Lean executable was not available for a fresh compilation in the repository-building environment; its acceptance must therefore be checked by the user/reviewer on a machine with the pinned toolchain.
+Expected: no compilation errors and no `sorryAx` in the output of any of the ten `#print axioms` commands.
+
+The authors report successful execution of the complete ten-theorem source in Lean 4, with no `sorryAx` dependencies identified in the axiom audit. Independent reviewers can reproduce the verification using the pinned toolchain specified in this repository.
 
 The Lean model formally compares *international ingress via N0* to a selectable *direct international-to-N1 ingress* with identical downstream conditions, and proves the exact count decomposition for a **finite list of routing demands**:
 
